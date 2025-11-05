@@ -249,3 +249,5 @@ Built a 3D FPS game and multimodal AI agent that plays autonomously. Agent perce
 
 Future: Add obstacles (trees, cars), parallel LLM processing for faster reactions, multi-enemy support.
 <- Add quickstart guide for setup and commit: 2025-11-04 -->
+
+<- Add quickstart guide for setup and commit: 2025-11-05 -->
