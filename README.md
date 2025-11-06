@@ -251,3 +251,5 @@ Future: Add obstacles (trees, cars), parallel LLM processing for faster reaction
 <- Add quickstart guide for setup and commit: 2025-11-04 -->
 
 <- Add quickstart guide for setup and commit: 2025-11-05 -->
+
+<- Add quickstart guide for setup and commit: 2025-11-06 -->
