@@ -5,17 +5,30 @@
 This project demonstrates an AI agent playing a custom 3D first-person shooting game built with Ursina. The agent uses multimodal LLMs—DeepSeek V3 for text-based tactics and Mistral 3.1 for vision-based strategy—to perceive the environment, decide actions, and win by eliminating enemies while avoiding damage.
 
 Watch the agent in action:
-- **Game without AI**: Manual play for testing.  
-<p align="center">
-  <video controls autoplay src="public/walls.mp4" alt="manual play video" width="640"></video>
-</p>
+- **Game without AI**: Manual play for testing.
 
-- **First attempt (failure)**: Agent fails due to fast enemy speed.  
-  <video controls autoplay src="public/win.mp4" width="640">Your browser does not support the video tag.</video>
+https://github.com/user-attachments/assets/797d1dfc-def3-40c8-9930-55fd84e31abb
 
-- **Second attempt (win)**: Agent succeeds after reducing enemy speed.  
-  <video controls autoplay src="public/fail.mp4" width="640">Your browser does not support the video tag.</video>
+
+  
+- **First attempt (failure)**: Agent fails due to fast enemy speed.
+
+
+https://github.com/user-attachments/assets/4535923e-5ef6-41b9-9379-a6df182a72ee
+
+
+
+- **Second attempt (win)**: Agent succeeds after reducing enemy speed.
+
  
+
+https://github.com/user-attachments/assets/efb02ed6-9582-49f4-93ce-d241e93c632c
+
+
+
+
+
+
 
 ## Table of Contents
 
