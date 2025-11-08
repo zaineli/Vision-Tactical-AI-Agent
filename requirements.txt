@@ -1,0 +1,6 @@
+# This file lists all the Python packages required to run the project.
+# You can install them all at once using: pip install -r requirements.txt
+openai # For interacting with the OpenAI API
+pynput # For controlling and monitoring input devices
+mss # For screen capturing
+ursina # A 3D game engine
